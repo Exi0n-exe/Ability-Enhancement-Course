@@ -3,12 +3,8 @@ using namespace std;
 int main()
 {
     int m=0,vol=0,temp=0;
-    cout<<"---------------------------------------"<<endl;
-    cout<<"Current Volume = "<<vol<<endl;
-    cout<<"---------------------------------------"<<endl;
-        cout<<"1) Increase the Volume"<<endl;
-        cout<<"2) Decrease the volume"<<endl;
-        cout<<"3) Exit"<<endl;
+        cout<<"1) Press 1 to start "<<endl;
+        cout<<"2) Press 0 to Exit "<<endl;
         cout<<"Choose Your Option : ";
         cin>>m;
     while(m!=0)
