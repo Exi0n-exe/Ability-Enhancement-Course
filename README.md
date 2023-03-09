@@ -1,4 +1,4 @@
-Ability Enhancement Course
+Ability Enhancement Course (DONT REFER THIS README , IT'S NOT UPDATED)
 =============================
 
 [Sum of n Natural Numbers](./Sum%20of/n%20natural%20numbers/n%20natural%20numbers.cpp)
